@@ -11,9 +11,7 @@
     <!-- start include style -->
     <?= $this->include('includes/Landing/style') ?>
     <!-- end include style -->
-    <!-- start include script -->
-    <?= $this->include('includes/Landing/script') ?>
-    <!-- end include script -->
+
 
 </head>
 
@@ -28,7 +26,13 @@
 
     <?= $this->renderSection('content') ?>
 
+    <!-- start include footer -->
     <?= $this->include('includes/landing/footer') ?>
+    <!-- end include footer -->
+
+    <!-- start include script -->
+    <?= $this->include('includes/Landing/script') ?>
+    <!-- end include script -->
 
 </body>
 
