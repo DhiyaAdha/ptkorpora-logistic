@@ -36,10 +36,6 @@
             <?= $this->include('Components/Landing/navbar') ?>
         <!-- end of header-navbar -->
 
-        <!-- start of hero -->
-        <?= $this->include('Components/Landing/hero_slider'); ?>
-        <!-- end of hero slider -->
-
         <!-- start of home-content -->
         <?= $this->renderSection('content'); ?>
         <!-- end of home-content -->
