@@ -75,8 +75,8 @@
                     </li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
-            </div><!-- end of nav-collapse -->
-
+            </div>
+            <!-- end of nav-collapse -->
             <div class="search-contact">
                 <div class="header-search-area">
                     <div class="header-search-form">
@@ -100,7 +100,7 @@
                     <a href="#" class="theme-btn">Contact us</a>
                 </div>
             </div>
-        </div> <!-- end of container -->
+        </div> 
     </nav>
 </header>
 <!-- start header-navbar -->

@@ -1,11 +1,9 @@
-<!-- start content home -->
 <?= $this->extend('Layouts/front'); ?>
 
-<?= $this->section('content'); ?>
+<?= $this->section('content');  ?>
+
+
 <!-- start content home -->
-
-
-<!-- start about-us-section -->
 <section class="about-us-section section-padding">
     <div class="container">
         <div class="row">
@@ -45,6 +43,7 @@
         </div>
     </div> <!-- end container -->
 </section>
+<?= $this->renderSection('content_home'); ?>
 <!-- end about-us-section -->
 
 
@@ -596,6 +595,6 @@
 <!-- end cta-section -->
 
 
-<!-- end content home -->
-<?= $this->endSection('content'); ?>
-<!-- end content home -->
+
+
+<?= $this->endSection(); ?>
