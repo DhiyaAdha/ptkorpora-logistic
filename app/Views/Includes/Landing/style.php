@@ -1,0 +1,13 @@
+<link href="<?= base_url() ?>/css/themify-icons.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/flaticon.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/bootstrap.min.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/animate.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/owl.carousel.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/owl.theme.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/slick.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/slick-theme.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/swiper.min.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/odometer-theme-default.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/owl.transitions.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/jquery.fancybox.css" rel="stylesheet">
+<link href="<?= base_url() ?>/css/style.css" rel="stylesheet">
